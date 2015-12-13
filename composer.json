@@ -1,0 +1,18 @@
+{
+    "name": "dvixi/dvixi-helpers",
+    "description": "pack of often used methods for parsing and extracting data",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dvixi",
+            "email": "contact@dvixi.in.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dvixi": "src/"
+        }
+    }
+}

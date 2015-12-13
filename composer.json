@@ -8,7 +8,9 @@
             "email": "contact@dvixi.in.ua"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-4": {
             "dvixi\\": "src/"

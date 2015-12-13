@@ -1,7 +1,7 @@
 <?php
 
 
-namespace dvixi\src;
+namespace dvixi;
 
 /**
  * @version 1.0

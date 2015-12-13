@@ -8,7 +8,6 @@
             "email": "contact@dvixi.in.ua"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
     },
